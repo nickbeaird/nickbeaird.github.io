@@ -1,0 +1,2 @@
+# nickbeaird.github.io
+NBlog
