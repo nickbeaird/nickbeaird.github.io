@@ -1,12 +1,15 @@
 # nickbeaird.github.io
 
 Title: QA Automation Engineer
+
 Name: Nick Beaird
+
 Nickname: Nick
 
 # Links
 
 [Github](https://github.com/nickbeaird/nickbeaird.github.io)
+
 [LinkedIn](https://www.linkedin.com/in/nbeaird/)
 
 # Fun Projects
