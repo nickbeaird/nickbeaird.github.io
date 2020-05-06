@@ -14,7 +14,7 @@ Nickname: Nick
 
 # Fun Projects
 
-[pom-elements](https://github.com/nickbeaird/pom-elements) - A Page Object Model Framework
+pom-elements [docs](https://nickbeaird.github.io/pom-elements/) [github](https://github.com/nickbeaird/pom-elements) - A Page Object Model Framework
 
 # Blog Ideas
 
