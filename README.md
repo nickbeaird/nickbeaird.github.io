@@ -22,4 +22,4 @@ Nickname: Nick
 1. LiveServerTestCase - A year later after implementation
 1. Mocking APIs and using pytest parameterization
 1. Pre-commits before and after a commit
-1. The cheapest blog. Can it get cheaper.  
+1. The cheapest blog. Can it get cheaper!?  
