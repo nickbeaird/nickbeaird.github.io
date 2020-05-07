@@ -1,6 +1,6 @@
 # nickbeaird.github.io
 
-Title: QA Automation Engineer
+Title: (currently) QA Automation Engineer and seeking opportunities
 
 Name: Nick Beaird
 
